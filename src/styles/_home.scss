@@ -1,0 +1,78 @@
+.welcome-wrapper{
+    // background-color: "#G7EDCC";
+    width: 50%;
+    position: absolute;
+	left: 25%;
+    top: 25%;
+    opacity: 0.8;
+}
+
+.login-wrapper{
+    text-align: center;
+    // background-color: "#G7EDCC";
+    width: 40%;
+    position: absolute;
+	left: 30%;
+    top: 30%;
+    opacity: 0.8;
+}
+
+.background-pic{
+    width: 100%;
+    height: 900px;
+    opacity: 0.7;
+}
+
+.button-home{
+    width: 280px;
+}
+
+.dash{
+    min-height: 870px;
+}
+
+// .xss {
+//     width: 100%;
+//     height: 60%;
+//     left: 0;
+//     right: 0;
+//     bottom: 0;
+//     position: absolute;
+//     overflow: hidden;
+// }
+// .xss img {
+//     position: absolute;
+//     left: 0;
+//     right: 0;
+//     bottom: 0;
+//     width: 100%;
+//     height: 100%;
+//     margin: auto;
+//     z-index: 1;
+//     overflow: hidden;
+// }
+// // animation: name duration timing-function delay iteration-count direction fill-mode play-state;
+// .xss img:first-child {
+//     animation: h1 5s linear 0s infinite;
+// }
+// .xss img:nth-child(2) {
+//     animation: h1 5s linear 1s infinite;
+// }
+// .xss img:nth-child(3) {
+//     animation: h1 5s linear 2s infinite;
+// }
+// .xss img:nth-child(4) {
+//     animation: h1 5s linear 3s infinite;
+// }
+// .xss img:nth-child(5) {
+//     animation: h1 5s linear 4s infinite;
+// }
+
+@keyframes h1 {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
